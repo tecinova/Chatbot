@@ -2,7 +2,7 @@
 :root {
   --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   --msger-bg: #fff;
-  --left-msg-bg: linear-gradient(to right, #f895b9, #f44183);
+  --left-msg-bg: linear-gradient(to right, #87ceeb, #48b4e0);
   --right-msg-bg: #ececec;
 }
 html {
